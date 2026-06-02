@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 ## Monotonic Stack
 |  |
 | ------- |
