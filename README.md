@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Union-Find
