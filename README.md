@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 ## Monotonic Stack
