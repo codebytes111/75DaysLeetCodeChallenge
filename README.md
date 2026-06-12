@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0905-sort-array-by-parity](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2337-move-pieces-to-obtain-a-string) |
