@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1768-merge-strings-alternately](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Binary Search
 |  |
 | ------- |
