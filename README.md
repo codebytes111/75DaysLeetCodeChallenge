@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1768-merge-strings-alternately](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2337-move-pieces-to-obtain-a-string) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 ## Union-Find
 |  |
 | ------- |
