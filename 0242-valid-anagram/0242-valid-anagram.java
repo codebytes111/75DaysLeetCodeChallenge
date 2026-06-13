@@ -1,24 +1,50 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         if(s.length() != t.length()) return false;
-        int count[] = new int[26];
 
+        HashMap<Character,Integer> map = new HashMap<>();
         for(int i=0;i<s.length();i++){
             char ch = s.charAt(i);
-            count[ch-'a']++;
-        }
-
-        for(int i=0;i<t.length();i++){
-            char ch = t.charAt(i);
-            count[ch-'a']--;
-        }
-
-    for(int i=0;i<count.length;i++){
-        if(count[i]!= 0){
-            return false;
-        }
+            if(map.containsKey(ch)){
+                map.put(ch,map.get(ch)+1);
             }
+            else{
+                map.put(ch,1);
+            }
+        }
+        for(int i=0;i<t.length();i++){
+            char c = t.charAt(i);
+            if(map.containsKey(c)){
+                map.put(c,map.get(c)-1);
+            }
+            else{
+        return false;
+            }
+        }
 
-            return true;
+        for(int value: map.values()){
+            if(value!=0){
+                return false;
+            }
+        }
+    //     int count[] = new int[26];
+
+    //     for(int i=0;i<s.length();i++){
+    //         char ch = s.charAt(i);
+    //         count[ch-'a']++;
+    //     }
+
+    //     for(int i=0;i<t.length();i++){
+    //         char ch = t.charAt(i);
+    //         count[ch-'a']--;
+    //     }
+
+    // for(int i=0;i<count.length;i++){
+    //     if(count[i]!= 0){
+    //         return false;
+    //     }
+    //         }
+
+           return true;
     }
 }
