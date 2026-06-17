@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
