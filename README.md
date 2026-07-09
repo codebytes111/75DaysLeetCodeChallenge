@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
