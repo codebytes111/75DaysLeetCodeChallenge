@@ -12,18 +12,25 @@ class MinStack {
         if(minstack.isEmpty()){
             minstack.push(value);
         }
-        else if(!minstack.isEmpty()){
-            int min = minstack.peek();
+        else{
+        //if(!minstack.isEmpty()){
+            //int min = minstack.peek();
             if(value <= minstack.peek()){
-                min = value;
-            }
-            minstack.push(min);
+                //min = value;
+                 minstack.push(value);
+            //}
+           
+        }
         }
     }
     
     public void pop() {
-       minstack.pop();
-        stack.pop();
+    if(stack.peek().equals(minstack.peek())){
+             minstack.pop();
+             
+        }
+      stack.pop();
+     // minstack.pop();
     }
     
     public int top() {
