@@ -1,45 +1,52 @@
 class MinStack {
-    Stack<Integer> stack;
-    Stack<Integer> minstack;
-
+    Stack<Long> st;
+    long min;
     public MinStack() {
-     stack = new Stack<>();
-     minstack = new Stack<>();
+        st = new Stack<>();
     }
     
     public void push(int value) {
-        stack.push(value);
-        if(minstack.isEmpty()){
-            minstack.push(value);
+        if(st.isEmpty()) {
+            min = value;
+            st.push((long)value);
+            return;
         }
         else{
-        //if(!minstack.isEmpty()){
-            //int min = minstack.peek();
-            if(value <= minstack.peek()){
-                //min = value;
-                 minstack.push(value);
-            //}
-           
+            if(value > min){
+            st.push((long)value);
+        }
+        else {
+            long x = 2L * value - min;
+            st.push(x);
+            min = value;
         }
         }
     }
     
     public void pop() {
-    if(stack.peek().equals(minstack.peek())){
-             minstack.pop();
-             
+        if(st.isEmpty()){
+            return;
         }
-      stack.pop();
-     // minstack.pop();
+        long y = st.pop();
+        if(y<min){ //tthat means this was encoded
+            min = 2 * min - y;
+
+        }
     }
     
     public int top() {
-        return stack.peek();
-        //return minstack.peek();
+        if(st.isEmpty()) return -1;
+            long x = st.peek();
+            if(min < x){ //its encoded
+                return (int)x;
+            }
+            else{
+                return (int)min;
+        }
     }
     
     public int getMin() {
-        return minstack.peek();
+        return (int)min;
     }
 }
 
