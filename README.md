@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [2235-add-two-integers](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2235-add-two-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
