@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
+| [1672-richest-customer-wealth](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
 | ------- |
