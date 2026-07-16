@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 ## Dynamic Programming
 |  |
 | ------- |
