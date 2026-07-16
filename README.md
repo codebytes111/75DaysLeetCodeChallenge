@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
