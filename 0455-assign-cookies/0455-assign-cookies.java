@@ -5,12 +5,12 @@ class Solution {
         int i = 0;
         int j = 0;
 
-        while(i<s.length && j<g.length){
-            if(s[i]>=g[j]){
-                j++;
+        while(i<g.length && j<s.length){
+            if(s[j]>=g[i]){
+                i++;
             }
-            i++;
+            j++;
         }
-        return j;
+        return i;
     }
 }
