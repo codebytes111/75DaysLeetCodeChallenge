@@ -1,31 +1,18 @@
 class Solution {
     public int countCollisions(String directions) {
-        Stack<Character> st = new Stack<>();
+        int left = 0;
+        int right = directions.length() - 1;
+        while(left<=right && directions.charAt(left)=='L'){
+            left++;
+        }
+        while(left<=right && directions.charAt(right)=='R'){
+            right--;
+        }
         int count = 0;
-        for(int i=0;i<directions.length();i++){
-            boolean flag = true;
-            char ch = directions.charAt(i);
-            while(!st.isEmpty()){
-                if(st.peek()=='R' && ch == 'L'){
-                    st.pop();
-                    ch = 'S';
-                    count+=2;
-                }
-               else if(st.peek()=='S' && ch == 'L'){
-                    ch = 'S';
-                    count++;
-                    break;
-                }
-                else if(st.peek()=='R' && ch == 'S'){
-                    count++;
-                    st.pop();
-                }
-                else{
-                    break;
-                }
-
+        for(int i=left;i<=right;i++){
+            if(directions.charAt(i)!='S'){
+                count++;
             }
-            st.push(ch);
         }
         return count;
     }
