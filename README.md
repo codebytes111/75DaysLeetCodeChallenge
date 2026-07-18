@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 ## Sliding Window
