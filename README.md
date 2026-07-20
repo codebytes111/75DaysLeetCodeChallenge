@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [2211-count-collisions-on-a-road](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2211-count-collisions-on-a-road) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [3174-clear-digits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2211-count-collisions-on-a-road](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2211-count-collisions-on-a-road) |
+| [3174-clear-digits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2211-count-collisions-on-a-road](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2211-count-collisions-on-a-road) |
+| [3174-clear-digits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Enumeration
 |  |
 | ------- |
