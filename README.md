@@ -519,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
