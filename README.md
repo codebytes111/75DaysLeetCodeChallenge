@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2235-add-two-integers](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2235-add-two-integers) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -525,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
