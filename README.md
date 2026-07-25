@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
+| [3536-maximum-product-of-two-digits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2235-add-two-integers](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2235-add-two-integers) |
+| [3536-maximum-product-of-two-digits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
