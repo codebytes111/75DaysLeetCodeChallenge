@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2235-add-two-integers](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
