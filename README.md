@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [3536-maximum-product-of-two-digits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
