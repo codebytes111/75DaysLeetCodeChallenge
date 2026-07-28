@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2211-count-collisions-on-a-road) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [3174-clear-digits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -540,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
