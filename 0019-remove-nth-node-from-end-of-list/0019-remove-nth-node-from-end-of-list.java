@@ -13,7 +13,7 @@ class Solution {
         if(head == null || head.next == null) return null;
 
         ListNode temp = head;
-        ListNode prev = null;
+
         int len = 0;
         while(temp!=null){
             len++;
@@ -23,7 +23,7 @@ class Solution {
         if(len == n){
             return head.next;
         }
-        temp = head;
+         temp = head;
         int count = 0;
         while(temp!=null){
             count++;
