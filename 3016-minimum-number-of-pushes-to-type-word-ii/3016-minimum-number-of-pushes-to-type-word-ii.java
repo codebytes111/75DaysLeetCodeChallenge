@@ -1,25 +1,5 @@
 class Solution {
     public int minimumPushes(String word) {
-    //     int count[] = new int[26];
-    //    // HashMap<Character,Integer> map = new HashMap<>();
-    //     for(char ch : word.toCharArray()){
-    //         // if(map.containsKey(ch)){
-    //         //     map.put(ch,map.getOrDefault(ch),1);
-    //         // }
-    //         count[ch-'a']++;
-    //     }
-    //     int total = 0;
-    //     int unique = 0;
-    //     for(int i=0; i<26;i++){
-    //         if(count[i]!=0){
-    //             unique++;
-    //         }
-    //         total+=count[i];
-    //     }
-    //     if(unique>8){
-    //             total+=1;
-    //         }
-    //     return total;
     int len = word.length();
         int count[] = new int[26];
         for(char ch : word.toCharArray()){
