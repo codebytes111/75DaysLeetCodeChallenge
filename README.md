@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -198,15 +200,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -542,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -557,5 +563,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/codebytes111/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
